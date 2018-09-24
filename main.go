@@ -6,7 +6,7 @@ import (
 	"os"
 	"sort"
 
-	"command-line/sub"
+	"github.com/enternal-hoge/command-line-example/sub"
 
 	"github.com/urfave/cli"
 )
